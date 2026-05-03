@@ -1,0 +1,7 @@
+Use-case (Melbourne House Price Analysis) -- Use-case
+=========================================================================
+1. You need to create a model that can predict the price of house based on Car Parking availability, 
+Landsize, BuildingArea, YearBuilt.  (SL for the project is 0.5)
+
+
+2. Create a model that can predict the price of the house using all feature cols (SL for the project is 0.5)
